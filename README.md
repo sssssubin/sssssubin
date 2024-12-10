@@ -4,6 +4,7 @@
 
 유연한 UI/UX 솔루션을 통해 복잡한 문제를 해결하고, 팀의 상황에 맞는 적절한 기술을 활용하여 견고한 제품을 만들어내는 것을 추구합니다.
 
+
 ## 🎯 Core Competencies
 
 - 일관성 있는 사용자 인터페이스 구현 및 디자인 시스템 활용
@@ -45,6 +46,15 @@
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=sssssubin&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="subin's github stats" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssssubin&layout=compact&theme=nord&hide_border=true" />
 </div>
+
+## 💻 Projects & Activities
+### PublicPlus - 공공체육시설 이용 활성화 플랫폼
+**Repository**: [github.com/prgrms-web-devcourse-final-project/WEB1_2_PublicPlus_FE](https://github.com/prgrms-web-devcourse-final-project/WEB1_2_PublicPlus_FE)
+
+`Next.js` `TypeScript` `Tanstack Query` `MSW` `Zustand` `TailwindCSS`
+- Frontend Developer / Team PM
+- MSW 도입으로 백엔드 독립적인 개발 환경 구축
+- OpenAPI Generator를 사용하여 Swagger 문서를 기반으로 TypeScript 타입 자동 생성
 
 ## 🏆 Achievements & Certifications
 - 정보처리기사 (2021.08)
