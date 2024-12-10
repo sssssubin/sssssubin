@@ -47,18 +47,21 @@
 </div>
 
 ## 🏆 Achievements & Certifications
-
 - 정보처리기사 (2021.08)
 - 항해플러스 프론트엔드 3기 수료 성과 배지
   <a href="https://hhpluscertificateofcompletion.oopy.io/">
     <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" alt="항해플러스 프론트엔드 3기 수료" />
   </a>
+  > 교육기관 팀스파르타(주)가 주관한 '항해 플러스' 과정에서 10주간의 과제 통과율에 따라 수여하는 실력 인증 배지입니다.
 
 ## 🔍 More About Me
-
 - 🌱 현재 프론트엔드 개발자로서 성장하고 있습니다
 - 🚀 항해 플러스 프론트엔드 코스 3기 수료 (2024.09.21 ~ 2024.11.30)
-  > 항해플러스는 현직자 멘토링을 통한 실무 중심의 프론트엔드 심화 교육과정입니다. 10주 동안 성능 최적화, 테스트 코드 작성, CI/CD 구축 등 실무 핵심 역량을 집중적으로 학습했습니다. 프로젝트 기반의 학습을 통해 실제 개발 현장에서 필요한 문제 해결 능력을 키웠습니다.
+  - 현직자 멘토링을 통한 실무 중심의 학습 진행
+  - React와 TypeScript를 활용한 웹 애플리케이션 개발
+  - 성능 최적화 및 테스트 코드 작성 실습
+  - CI/CD 파이프라인 구축 경험
+  - 팀 프로젝트를 통한 실무 협업 경험
 
 ## 🤝 Connect with me
 
