@@ -55,6 +55,7 @@
 - Frontend Developer / Team PM
 - MSW 도입으로 백엔드 독립적인 개발 환경 구축
 - OpenAPI Generator를 사용하여 Swagger 문서를 기반으로 TypeScript 타입 자동 생성
+- Storybook으로 UI 컴포넌트 문서화하여 디자인 시스템 일관성 확보
 
 ## 🏆 Achievements & Certifications
 - 정보처리기사 (2021.08)
